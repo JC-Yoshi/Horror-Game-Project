@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Game Dev/Horror Game Project/HGProjectFiles/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"D:/Game Dev/Horror Game Project/HGProjectFiles/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/Game Dev/Horror Game Project/HGProjectFiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"D:/Game Dev/Horror Game Project/HGProjectFiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/9T/V70WXDOV53NI535NGXW9TH.uasset",
+				"D:/Game Dev/Horror Game Project/HGProjectFiles/Content/PremiumBodycam/Blueprints/Character/BP_FPBodycamCharacter.uasset",
+				"D:/Game Dev/Horror Game Project/HGProjectFiles/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/Game Dev/Horror Game Project/HGProjectFiles/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/QJ/IF5BT19LMKMRFYDL6DD2HS.uasset"
 			]
 		}
 	]
